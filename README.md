@@ -1,6 +1,7 @@
 # Laravel + Vue.js with Socket.io
 A template for starter projects.
 Forked repo by maiah19
+xavierder13
 
 ### Here are the Steps to follow in order to run this project:
 <ul>
